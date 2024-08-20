@@ -8,8 +8,10 @@
 #### *You cannot move the child backwards*
 
 ## Here Are Screenshots Of How The Game Works:
-![title-page] (https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/title-page.png)
+![title-page](https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/title-page.png)
 ![start-page/screen](https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/start-playing-page.png)
-![win-page] (https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/crossed-street-screen.png)
+![half-way-page](https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/halfway-crossing-screen.png)
+![win-page](https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/crossed-street-screen.png)
+
 #### *or if you get hit by a car...*
 ![hit-by-car](https://raw.githubusercontent.com/pcwhite-dot/scrolling-game/main/lose-screen.png)
