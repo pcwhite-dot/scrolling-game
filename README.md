@@ -1,4 +1,4 @@
- scrolling-game
+# child-Crossing: A Scrolling-Game
 
 ## What is this? 
 #### This is a game whereby the player is supposed to get the child to the other side of the highway without getting hit by a car 
